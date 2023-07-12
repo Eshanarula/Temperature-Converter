@@ -10,7 +10,7 @@ Getting Started
 To get started with the temperature converter website, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/temperature-converter.git
+git clone https:[//github.com/your-username/temperature-converter.git](https://github.com/Eshanarula)
 Navigate to the project directory:
 cd temperature-converter
 Open the index.html file in a web browser.
